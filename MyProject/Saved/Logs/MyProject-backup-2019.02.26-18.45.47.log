@@ -1,0 +1,1269 @@
+﻿Log file open, 02/15/19 15:26:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-314268825) SRandInit(-314268825).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.261568
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.192s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Marko--Desktop (192.168.0.20:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.15-23.26.10:938][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.15-23.26.10:938][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.15-23.26.10:944][  0]LogInit: Computer: MARKO--DESKTOP
+[2019.02.15-23.26.10:944][  0]LogInit: User: Marko
+[2019.02.15-23.26.10:944][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.15-23.26.10:944][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.15-23.26.10:944][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.02.15-23.26.10:944][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.15-23.26.10:944][  0]LogMemory: Process Physical Memory: 280.36 MB used, 280.36 MB peak
+[2019.02.15-23.26.10:944][  0]LogMemory: Process Virtual Memory: 271.00 MB used, 271.00 MB peak
+[2019.02.15-23.26.10:944][  0]LogMemory: Physical Memory: 7265.39 MB used,  9077.78 MB free, 16343.17 MB total
+[2019.02.15-23.26.10:944][  0]LogMemory: Virtual Memory: 4835.09 MB used,  9077.78 MB free, 134217728.00 MB total
+[2019.02.15-23.26.11:456][  0]LogInit: Using OS detected language (en-US).
+[2019.02.15-23.26.11:456][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.15-23.26.11:459][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.15-23.26.11:760][  0]LogStreaming: Display: Took  0.304s to EndInitTextLocalization.
+[2019.02.15-23.26.11:760][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.15-23.26.11:792][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.15-23.26.11:792][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.15-23.26.11:992][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.15-23.26.12:042][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.02.15-23.26.12:042][  0]LogD3D11RHI:       8079/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.15-23.26.12:044][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.15-23.26.12:044][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.15-23.26.12:044][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.15-23.26.12:050][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.15-23.26.12:051][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.15-23.26.12:051][  0]LogWindows: EnumDisplayDevices:
+[2019.02.15-23.26.12:051][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.02.15-23.26.12:051][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.02.15-23.26.12:051][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.02.15-23.26.12:051][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.02.15-23.26.12:051][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.15-23.26.12:051][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.02.15-23.26.12:051][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.15-23.26.12:051][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.15-23.26.12:051][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.02.15-23.26.12:122][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.02.15-23.26.12:122][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.02.15-23.26.12:122][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.15-23.26.12:133][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.02.15-23.26.12:178][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Intermediate/Shaders/WorkingDirectory/17188/).
+[2019.02.15-23.26.12:178][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Marko/AppData/Local/Temp/UnrealShaderWorkingDir/C0A01025406F931D1FDB9C9E0AD4C8FC/'.
+[2019.02.15-23.26.12:363][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.15-23.26.12:375][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.15-23.26.12:385][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.15-23.26.12:396][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.15-23.26.12:407][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.15-23.26.12:418][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.15-23.26.12:429][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.15-23.26.12:439][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.15-23.26.12:445][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.15-23.26.12:454][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.02.15-23.26.12:463][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.02.15-23.26.12:472][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.02.15-23.26.12:482][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.02.15-23.26.12:491][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.02.15-23.26.12:502][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.02.15-23.26.12:521][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.02.15-23.26.12:521][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.02.15-23.26.12:531][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.15-23.26.12:532][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.15-23.26.12:567][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.15-23.26.12:575][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.15-23.26.12:584][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.15-23.26.12:593][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.15-23.26.12:603][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.15-23.26.12:612][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.15-23.26.12:612][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.15-23.26.12:746][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.15-23.26.12:746][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.15-23.26.12:746][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.15-23.26.13:254][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.15-23.26.13:309][  0]LogDerivedDataCache: Loaded boot cache 0.05s 88MB C:/Users/Marko/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.02.15-23.26.13:309][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Marko/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.02.15-23.26.13:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.15-23.26.13:309][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.15-23.26.13:309][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.15-23.26.13:309][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.15-23.26.13:321][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.15-23.26.13:335][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Marko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.15-23.26.13:335][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.15-23.26.13:335][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.15-23.26.13:343][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.15-23.26.13:343][  0]LogSlate: Using Freetype 2.6.0
+[2019.02.15-23.26.13:344][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.15-23.26.13:344][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.15-23.26.13:474][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2019.02.15-23.26.13:704][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.15-23.26.13:833][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.15-23.26.13:836][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.15-23.26.13:836][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.15-23.26.13:836][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.15-23.26.13:836][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.02.15-23.26.13:836][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.02.15-23.26.13:867][  0]LogNetVersion: MyProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2475486345)
+[2019.02.15-23.26.14:192][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.056724 seconds
+[2019.02.15-23.26.14:196][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.02.15-23.26.14:196][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.02.15-23.26.14:196][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.15-23.26.15:645][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.15-23.26.15:678][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.15-23.26.16:095][  0]SourceControl: Source control is disabled
+[2019.02.15-23.26.16:095][  0]SourceControl: Source control is disabled
+[2019.02.15-23.26.16:118][  0]SourceControl: Source control is disabled
+[2019.02.15-23.26.16:140][  0]SourceControl: Source control is disabled
+[2019.02.15-23.26.16:727][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.15-23.26.17:149][  0]LogOcInput: OculusInput pre-init called
+[2019.02.15-23.26.17:283][  0]LogEngine: Initializing Engine...
+[2019.02.15-23.26.17:284][  0]LogHMD: Oculus plugin initialized. Version: 4.19.2-4033788+++UE4+Release-4.19, OVRPlugin: 1.21.0
+[2019.02.15-23.26.17:286][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.15-23.26.17:286][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.15-23.26.17:458][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.15-23.26.17:514][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.15-23.26.17:654][  0]LogInit: FAudioDevice initialized.
+[2019.02.15-23.26.17:703][  0]LogDerivedDataCache: Saved boot cache 0.05s 88MB C:/Users/Marko/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.02.15-23.26.17:715][  0]LogInit: Texture streaming: Enabled
+[2019.02.15-23.26.17:731][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.15-23.26.17:745][  0]LogInit: Transaction tracking system initialized
+[2019.02.15-23.26.17:772][  0]BlueprintLog: New page: Editor Load
+[2019.02.15-23.26.17:852][  0]LocalizationService: Localization service is disabled
+[2019.02.15-23.26.17:970][  0]LogConsoleResponse: Display: 
+[2019.02.15-23.26.18:084][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.15-23.26.18:084][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.15-23.26.18:084][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.15-23.26.18:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.15-23.26.18:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.15-23.26.18:528][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/' took 0.02s
+[2019.02.15-23.26.18:528][  0]SourceControl: Source control is disabled
+[2019.02.15-23.26.18:528][  0]Cmd: MAP LOAD FILE="C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.15-23.26.18:528][  0]LightingResults: New page: Lighting Build
+[2019.02.15-23.26.18:531][  0]MapCheck: New page: Map Check
+[2019.02.15-23.26.18:531][  0]LightingResults: New page: Lighting Build
+[2019.02.15-23.26.18:627][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35e94f00, Size=416, Default__Teleporter_C Function /Game/Teleports/Blueprints/Teleporter.Teleporter_C:ExecuteUbergraph_Teleporter
+[2019.02.15-23.26.18:633][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35e94f00, Size=416
+[2019.02.15-23.26.18:633][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb209eb200, Size=416, Default__Teleporter_C Function /Engine/Transient.REINST_Teleporter_C_7:ExecuteUbergraph_Teleporter
+[2019.02.15-23.26.18:637][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb209ea5c0, Size=416, Default__Teleporter_C Function /Game/Teleports/Blueprints/Teleporter.Teleporter_C:ExecuteUbergraph_Teleporter
+[2019.02.15-23.26.18:646][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35e4bbe0, Size=32, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2019.02.15-23.26.18:647][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35e4bbe0, Size=32
+[2019.02.15-23.26.18:648][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35e4bbe0, Size=32, Default__BP_PickupCube_C Function /Engine/Transient.REINST_BP_PickupCube_C_11:ExecuteUbergraph_BP_PickupCube
+[2019.02.15-23.26.18:649][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35e4ad60, Size=32, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2019.02.15-23.26.18:663][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb209b22d8, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2019.02.15-23.26.18:665][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb209b22d8, Size=24
+[2019.02.15-23.26.18:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb209b22d8, Size=24, Default__RightHand_AnimBP_C Function /Engine/Transient.REINST_RightHand_AnimBP_C_0:ExecuteUbergraph_RightHand_AnimBP
+[2019.02.15-23.26.18:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb209b17c8, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2019.02.15-23.26.18:698][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35e14800, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2019.02.15-23.26.18:722][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35e14800, Size=968
+[2019.02.15-23.26.18:722][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35c83000, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_14:ExecuteUbergraph_BP_MotionController
+[2019.02.15-23.26.18:745][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35c81c00, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2019.02.15-23.26.18:751][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb147fa200, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.02.15-23.26.18:760][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb147fa200, Size=752
+[2019.02.15-23.26.18:760][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35b3d300, Size=752, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_16:ExecuteUbergraph_MotionControllerPawn
+[2019.02.15-23.26.18:767][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35b3e800, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2019.02.15-23.26.18:776][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb14801630, Size=48, Default__Robot_C Function /Game/VirtualRealityBP/Blueprints/Robot.Robot_C:ExecuteUbergraph_Robot
+[2019.02.15-23.26.18:778][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb14801630, Size=48
+[2019.02.15-23.26.18:778][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb14801630, Size=48, Default__Robot_C Function /Engine/Transient.REINST_Robot_C_18:ExecuteUbergraph_Robot
+[2019.02.15-23.26.18:779][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb14801420, Size=48, Default__Robot_C Function /Game/VirtualRealityBP/Blueprints/Robot.Robot_C:ExecuteUbergraph_Robot
+[2019.02.15-23.26.18:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35e90d60, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.26.18:797][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35e90d60, Size=4
+[2019.02.15-23.26.18:797][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35e90d60, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_20:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.26.18:798][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb35e90e78, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.26.19:273][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.02.15-23.26.19:273][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.02.15-23.26.19:273][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.02.15-23.26.19:273][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.02.15-23.26.19:273][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.02.15-23.26.19:273][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.02.15-23.26.19:273][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.387800ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2019.02.15-23.26.19:397][  0]LogAIModule: Creating AISystem for world Level1_And_TestArea
+[2019.02.15-23.26.19:409][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.15-23.26.19:422][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb209eb200, Size=416
+[2019.02.15-23.26.19:422][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35e4bbe0, Size=32
+[2019.02.15-23.26.19:422][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb209b22d8, Size=24
+[2019.02.15-23.26.19:422][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35c83000, Size=968
+[2019.02.15-23.26.19:422][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35b3d300, Size=752
+[2019.02.15-23.26.19:422][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb14801630, Size=48
+[2019.02.15-23.26.19:422][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35e90d60, Size=4
+[2019.02.15-23.26.19:423][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.15-23.26.19:479][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.074ms to complete.
+[2019.02.15-23.26.19:479][  0]LogFileHelpers: Loading map 'Level1_And_TestArea' took 0.951
+[2019.02.15-23.26.19:610][  0]LogCollectionManager: Loaded 0 collections in 0.001963 seconds
+[2019.02.15-23.26.19:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Collections/' took 0.01s
+[2019.02.15-23.26.19:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/Developers/Marko/Collections/' took 0.01s
+[2019.02.15-23.26.19:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/Collections/' took 0.01s
+[2019.02.15-23.26.19:652][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.15-23.26.19:659][  0]LogContentBrowser: Native class hierarchy populated in 0.0066 seconds. Added 2452 classes and 558 folders.
+[2019.02.15-23.26.19:666][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.15-23.26.19:723][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.15-23.26.19:728][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.15-23.26.19:783][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.15-23.26.19:786][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.15-23.26.19:791][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.15-23.26.19:867][  0]LogRenderer: Reallocating scene render targets to support 1708x996 Format 26 NumSamples 1 (Frame:1).
+[2019.02.15-23.26.19:948][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.15-23.26.19:948][  0]LogLoad: (Engine Initialization) Total time: 11.76 seconds
+[2019.02.15-23.26.19:948][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.15-23.26.19:957][  0]LogOcInput: OculusInput is initialized
+[2019.02.15-23.26.19:973][  0]LogAssetRegistry: Asset discovery search completed in 6.5204 seconds
+[2019.02.15-23.26.19:974][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.15-23.26.19:974][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.02.15-23.26.19:977][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.15-23.26.20:971][113]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.15-23.26.20:984][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.26.21:172][113]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 116 classes and 0 folders.
+[2019.02.15-23.26.21:377][113]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb2823a060, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.02.15-23.26.21:378][113]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb2823a058, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.02.15-23.26.21:666][113]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.15-23.26.21:720][114]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.15-23.26.29:286][998]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.02.15-23.26.33:548][491]Cmd: DELETE
+[2019.02.15-23.26.33:549][491]Cmd: ACTOR DELETE
+[2019.02.15-23.26.33:552][491]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.02.15-23.26.33:568][491]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.02.15-23.26.37:621][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.26.37:759][975]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35e90e78, Size=4
+[2019.02.15-23.26.37:759][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb26f82340, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_36:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.26.37:760][975]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb26f82320, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.26.37:904][975]LogSavePackage: Save=146.45ms
+[2019.02.15-23.26.37:904][975]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestAreaA8481BC24E972E8915135EB8F054AB3C.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap'
+[2019.02.15-23.26.37:906][975]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap
+[2019.02.15-23.26.38:078][975]LogSavePackage: Save=148.03ms
+[2019.02.15-23.26.38:078][975]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea_BuiltData1B6423494B967945FA079BBD95900838.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset'
+[2019.02.15-23.26.38:080][975]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset
+[2019.02.15-23.26.39:943][194]MapCheck: New page: Map Check
+[2019.02.15-23.26.39:955][194]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.15-23.26.39:955][194]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.15-23.26.40:025][194]LightingResults: New page: Lighting Build - Feb 15, 2019, 7:26:40 AM
+[2019.02.15-23.26.40:048][194]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.15-23.26.40:160][194]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.15-23.26.40:168][194]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.15-23.26.40:674][194]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.15-23.26.40:674][194]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17188
+[2019.02.15-23.26.45:029][194]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.15-23.26.45:030][194]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.15-23.26.45:030][194]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.15-23.26.45:030][194]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.15-23.26.45:030][194]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.15-23.26.45:156][194]LogEditorBuildUtils: Build time 0:05
+[2019.02.15-23.26.45:213][196]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb26f82340, Size=4
+[2019.02.15-23.26.50:399][641]Job is a success!
+[2019.02.15-23.26.50:430][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.26.50:461][642]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2019.02.15-23.26.50:461][642]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.15-23.26.50:461][642]LogVolumetricLightmapImport:      BrickData 605x5x5 = 0.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.02.15-23.26.50:461][642]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.15-23.26.50:461][642]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2019.02.15-23.26.50:461][642]LogVolumetricLightmapImport:          1: 16.5% covering 31.3% of volume
+[2019.02.15-23.26.50:461][642]LogVolumetricLightmapImport:          2: 82.6% covering 2.4% of volume
+[2019.02.15-23.26.51:111][642]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.02.15-23.26.51:111][642]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.02.15-23.26.51:111][642]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.02.15-23.26.51:111][642]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.02.15-23.26.51:111][642]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.02.15-23.26.51:111][642]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.02.15-23.26.51:151][642]Lightmass on MARKO--DESKTOP: 5.60 sec total, 210 ms importing, 132 ms setup, 1.64 sec photons, 3.57 sec processing, 0 ms extra exporting [80/80 mappings]. Threads: 24.8 sec total, 10.0 sec processing.
+[2019.02.15-23.26.51:158][642]LogStaticLightingSystem: Illumination: 11.1 sec (533 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.02.15-23.26.51:158][642]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.02.15-23.26.51:158][642]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.02.15-23.26.52:036][642]DumpUnbuiltLightIteractions
+[2019.02.15-23.26.52:036][642]Lights with unbuilt interactions: 0
+[2019.02.15-23.26.52:036][642]
+[2019.02.15-23.26.52:036][642]Primitives with unbuilt interactions: 0
+[2019.02.15-23.26.52:062][643]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.15-23.26.52:062][643]MapCheck: New page: Level1_And_TestArea - Feb 15, 2019, 7:26:52 AM
+[2019.02.15-23.26.52:121][643]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.725ms to complete.
+[2019.02.15-23.27.13:924][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.27.35:436][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.27.35:589][805]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb26f82320, Size=4
+[2019.02.15-23.27.35:589][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb28239de8, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_40:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.27.35:590][805]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb28239b50, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.27.35:740][805]LogSavePackage: Save=151.85ms
+[2019.02.15-23.27.35:740][805]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestAreaC1C21C69433007F7A668149A87519C86.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap'
+[2019.02.15-23.27.35:742][805]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap
+[2019.02.15-23.27.35:886][805]LogSavePackage: Save=121.97ms
+[2019.02.15-23.27.35:886][805]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea_BuiltData9E1729B14E0AE1A476FC4F8E03A35D2A.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset'
+[2019.02.15-23.27.35:888][805]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset
+[2019.02.15-23.27.37:499][994]MapCheck: New page: Map Check
+[2019.02.15-23.27.37:507][994]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.15-23.27.37:507][994]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.15-23.27.37:590][994]LightingResults: New page: Lighting Build - Feb 15, 2019, 7:27:37 AM
+[2019.02.15-23.27.37:595][994]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.15-23.27.37:597][994]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.15-23.27.37:597][994]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.15-23.27.37:598][994]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.15-23.27.37:598][994]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17188
+[2019.02.15-23.27.42:119][994]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.15-23.27.42:119][994]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.15-23.27.42:119][994]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.15-23.27.42:119][994]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.15-23.27.42:119][994]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.15-23.27.42:209][994]LogEditorBuildUtils: Build time 0:04
+[2019.02.15-23.27.42:265][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb28239de8, Size=4
+[2019.02.15-23.27.47:401][444]Job is a success!
+[2019.02.15-23.27.47:450][446]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.02.15-23.27.47:450][446]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.15-23.27.47:450][446]LogVolumetricLightmapImport:      BrickData 615x5x5 = 0.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.02.15-23.27.47:450][446]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.15-23.27.47:450][446]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2019.02.15-23.27.47:450][446]LogVolumetricLightmapImport:          1: 16.3% covering 31.3% of volume
+[2019.02.15-23.27.47:450][446]LogVolumetricLightmapImport:          2: 82.9% covering 2.5% of volume
+[2019.02.15-23.27.48:096][446]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.02.15-23.27.48:096][446]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.02.15-23.27.48:096][446]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.02.15-23.27.48:096][446]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.02.15-23.27.48:096][446]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.02.15-23.27.48:096][446]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.02.15-23.27.48:122][446]Lightmass on MARKO--DESKTOP: 5.55 sec total, 185 ms importing, 125 ms setup, 1.58 sec photons, 3.62 sec processing, 0 ms extra exporting [80/80 mappings]. Threads: 25.2 sec total, 10.2 sec processing.
+[2019.02.15-23.27.48:129][446]LogStaticLightingSystem: Illumination: 10.5 sec (530 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.02.15-23.27.48:129][446]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.02.15-23.27.48:129][446]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.02.15-23.27.49:124][446]DumpUnbuiltLightIteractions
+[2019.02.15-23.27.49:124][446]Lights with unbuilt interactions: 0
+[2019.02.15-23.27.49:124][446]
+[2019.02.15-23.27.49:124][446]Primitives with unbuilt interactions: 0
+[2019.02.15-23.27.49:147][447]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.15-23.27.49:148][447]MapCheck: New page: Level1_And_TestArea - Feb 15, 2019, 7:27:49 AM
+[2019.02.15-23.27.49:206][447]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.173ms to complete.
+[2019.02.15-23.29.21:918][470]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.29.40:577][697]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb28239b50, Size=4
+[2019.02.15-23.29.40:577][697]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb28239b50, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_44:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.29.40:577][697]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb28239ad0, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.29.40:722][697]LogSavePackage: Save=147.53ms
+[2019.02.15-23.29.40:722][697]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestAreaA516EF0B459945B292D031B14743A48E.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap'
+[2019.02.15-23.29.40:725][697]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap
+[2019.02.15-23.29.40:882][697]LogSavePackage: Save=129.64ms
+[2019.02.15-23.29.40:882][697]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea_BuiltDataB00D197F49039D466248F9B9462AE456.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset'
+[2019.02.15-23.29.40:885][697]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset
+[2019.02.15-23.29.52:288][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.30.09:061][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.30.16:322][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.30.23:377][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.30.40:366][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.30.41:690][848]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb28239b50, Size=4
+[2019.02.15-23.30.41:699][848]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb28239ad0, Size=4
+[2019.02.15-23.30.41:699][848]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb28239ad0, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_48:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.30.41:700][848]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb28239bc0, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.30.41:848][848]LogSavePackage: Save=150.45ms
+[2019.02.15-23.30.41:848][848]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea7328428B451F97186B05DE8BC6634B6B.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap'
+[2019.02.15-23.30.41:851][848]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap
+[2019.02.15-23.30.42:001][848]LogSavePackage: Save=127.64ms
+[2019.02.15-23.30.42:001][848]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea_BuiltData1A54A43342D1F22665DA189C49E212AA.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset'
+[2019.02.15-23.30.42:002][848]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset
+[2019.02.15-23.30.57:137][632]MapCheck: New page: Map Check
+[2019.02.15-23.30.57:146][632]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.15-23.30.57:146][632]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.15-23.30.57:243][632]LightingResults: New page: Lighting Build - Feb 15, 2019, 7:30:57 AM
+[2019.02.15-23.30.57:248][632]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.15-23.30.57:250][632]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.15-23.30.57:250][632]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.15-23.30.57:251][632]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.15-23.30.57:251][632]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17188
+[2019.02.15-23.31.01:756][632]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.15-23.31.01:756][632]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.15-23.31.01:756][632]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.15-23.31.01:756][632]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.15-23.31.01:756][632]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.15-23.31.01:849][632]LogEditorBuildUtils: Build time 0:04
+[2019.02.15-23.31.01:904][634]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb28239ad0, Size=4
+[2019.02.15-23.31.14:479][758]Job is a success!
+[2019.02.15-23.31.14:533][760]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.02.15-23.31.14:533][760]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.15-23.31.14:533][760]LogVolumetricLightmapImport:      BrickData 595x5x5 = 0.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.02.15-23.31.14:533][760]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.15-23.31.14:533][760]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2019.02.15-23.31.14:533][760]LogVolumetricLightmapImport:          1: 16.8% covering 31.3% of volume
+[2019.02.15-23.31.14:533][760]LogVolumetricLightmapImport:          2: 82.4% covering 2.4% of volume
+[2019.02.15-23.31.15:183][760]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.02.15-23.31.15:183][760]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.02.15-23.31.15:183][760]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.02.15-23.31.15:183][760]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.02.15-23.31.15:183][760]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.02.15-23.31.15:183][760]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.02.15-23.31.15:275][760]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2019.02.15-23.31.15:275][760]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X512)
+[2019.02.15-23.31.15:275][760]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2019.02.15-23.31.15:299][760]Lightmass on MARKO--DESKTOP: 13.0 sec total, 185 ms importing, 122 ms setup, 2.54 sec photons, 10.2 sec processing, 0 ms extra exporting [80/80 mappings]. Threads: 1:11 min total, 45.4 sec processing.
+[2019.02.15-23.31.15:307][760]LogStaticLightingSystem: Illumination: 18.0 sec (533 ms encoding lightmaps, 89 ms encoding shadowmaps)
+[2019.02.15-23.31.15:307][760]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.02.15-23.31.15:307][760]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.7 MB streaming, 0.7 MB non-streaming), 3 textures
+[2019.02.15-23.31.15:768][760]DumpUnbuiltLightIteractions
+[2019.02.15-23.31.15:768][760]Lights with unbuilt interactions: 0
+[2019.02.15-23.31.15:768][760]
+[2019.02.15-23.31.15:768][760]Primitives with unbuilt interactions: 0
+[2019.02.15-23.31.15:793][761]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.15-23.31.15:794][761]MapCheck: New page: Level1_And_TestArea - Feb 15, 2019, 7:31:15 AM
+[2019.02.15-23.31.15:852][761]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.724ms to complete.
+[2019.02.15-23.33.14:866][951]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2019.02.15-23.33.14:871][951]LogSlate: Window 'BP_Sky_Sphere' being destroyed
+[2019.02.15-23.33.20:626][628]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb28239bc0, Size=4
+[2019.02.15-23.33.20:626][628]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb688c9d28, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_52:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.33.20:627][628]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb688c9d20, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.33.20:775][628]LogSavePackage: Save=150.99ms
+[2019.02.15-23.33.20:775][628]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea9CEF697E45CC0BEF1B1D73B4CC47C75D.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap'
+[2019.02.15-23.33.20:778][628]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap
+[2019.02.15-23.33.20:933][628]LogSavePackage: Save=132.99ms
+[2019.02.15-23.33.20:933][628]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea_BuiltData568A357A4EBF1FC02F253887601146E2.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset'
+[2019.02.15-23.33.20:935][628]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset
+[2019.02.15-23.33.23:078][879]MapCheck: New page: Map Check
+[2019.02.15-23.33.23:089][879]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.15-23.33.23:089][879]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.15-23.33.23:211][879]LightingResults: New page: Lighting Build - Feb 15, 2019, 7:33:23 AM
+[2019.02.15-23.33.23:216][879]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.15-23.33.23:218][879]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.15-23.33.23:218][879]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.15-23.33.23:218][879]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.15-23.33.23:218][879]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17188
+[2019.02.15-23.33.27:738][879]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.15-23.33.27:738][879]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.15-23.33.27:738][879]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.15-23.33.27:738][879]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.15-23.33.27:738][879]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.15-23.33.27:832][879]LogEditorBuildUtils: Build time 0:04
+[2019.02.15-23.33.27:899][881]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb688c9d28, Size=4
+[2019.02.15-23.33.40:482][998]Job is a success!
+[2019.02.15-23.33.40:504][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.33.40:533][999]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.02.15-23.33.40:533][999]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.15-23.33.40:533][999]LogVolumetricLightmapImport:      BrickData 595x5x5 = 0.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.02.15-23.33.40:533][999]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.15-23.33.40:533][999]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2019.02.15-23.33.40:533][999]LogVolumetricLightmapImport:          1: 16.8% covering 31.3% of volume
+[2019.02.15-23.33.40:533][999]LogVolumetricLightmapImport:          2: 82.4% covering 2.4% of volume
+[2019.02.15-23.33.41:224][999]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.02.15-23.33.41:224][999]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.02.15-23.33.41:224][999]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.02.15-23.33.41:224][999]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.02.15-23.33.41:224][999]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.02.15-23.33.41:224][999]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.02.15-23.33.41:319][999]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.02.15-23.33.41:319][999]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X512)
+[2019.02.15-23.33.41:319][999]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X512)
+[2019.02.15-23.33.41:342][999]Lightmass on MARKO--DESKTOP: 13.1 sec total, 189 ms importing, 129 ms setup, 2.57 sec photons, 10.2 sec processing, 0 ms extra exporting [80/80 mappings]. Threads: 1:11 min total, 45.9 sec processing.
+[2019.02.15-23.33.41:348][999]LogStaticLightingSystem: Illumination: 18.1 sec (573 ms encoding lightmaps, 92 ms encoding shadowmaps)
+[2019.02.15-23.33.41:348][999]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.02.15-23.33.41:349][999]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.7 MB streaming, 0.7 MB non-streaming), 3 textures
+[2019.02.15-23.33.41:747][999]DumpUnbuiltLightIteractions
+[2019.02.15-23.33.41:747][999]Lights with unbuilt interactions: 0
+[2019.02.15-23.33.41:748][999]
+[2019.02.15-23.33.41:748][999]Primitives with unbuilt interactions: 0
+[2019.02.15-23.33.41:777][  0]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.15-23.33.41:777][  0]MapCheck: New page: Level1_And_TestArea - Feb 15, 2019, 7:33:41 AM
+[2019.02.15-23.33.41:834][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.724ms to complete.
+[2019.02.15-23.33.49:478][890]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.02.15-23.33.54:433][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.34.01:404][310]Cmd: DELETE
+[2019.02.15-23.34.01:404][310]Cmd: ACTOR DELETE
+[2019.02.15-23.34.01:407][310]LogEditorActor: Actor DirectionalLight is referenced by SkySphereBlueprint.
+[2019.02.15-23.34.02:764][310]LogSlate: Window 'Message' being destroyed
+[2019.02.15-23.34.02:768][310]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.02.15-23.34.02:784][310]LogEditorActor: Deleted 1 Actors (1.380 secs)
+[2019.02.15-23.34.06:753][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.34.16:276][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.34.27:995][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.34.43:118][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.34.52:217][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.34.52:365][ 60]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb688c9d20, Size=4
+[2019.02.15-23.34.52:365][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb6e605e30, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_56:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.34.52:365][ 60]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb6e605a90, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.34.52:517][ 60]LogSavePackage: Save=153.45ms
+[2019.02.15-23.34.52:517][ 60]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestAreaBF1CB40C4DE70DD0AC938CBCB542F82F.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap'
+[2019.02.15-23.34.52:519][ 60]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap
+[2019.02.15-23.34.52:676][ 60]LogSavePackage: Save=130.14ms
+[2019.02.15-23.34.52:676][ 60]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea_BuiltData11C846A54CC4AC6AF2CDA7B52A76E0A3.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset'
+[2019.02.15-23.34.52:679][ 60]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset
+[2019.02.15-23.35.02:062][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.35.02:812][253]MapCheck: New page: Map Check
+[2019.02.15-23.35.02:822][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.35.02:824][253]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.15-23.35.02:824][253]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.15-23.35.02:961][253]LightingResults: New page: Lighting Build - Feb 15, 2019, 7:35:02 AM
+[2019.02.15-23.35.02:966][253]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.15-23.35.02:968][253]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.15-23.35.02:968][253]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.15-23.35.02:969][253]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.15-23.35.02:969][253]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17188
+[2019.02.15-23.35.07:475][253]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.15-23.35.07:475][253]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.15-23.35.07:475][253]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.15-23.35.07:475][253]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.15-23.35.07:475][253]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.15-23.35.07:569][253]LogEditorBuildUtils: Build time 0:04
+[2019.02.15-23.35.07:634][255]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb6e605e30, Size=4
+[2019.02.15-23.35.20:237][391]Job is a success!
+[2019.02.15-23.35.20:258][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.35.20:289][392]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2019.02.15-23.35.20:289][392]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.15-23.35.20:289][392]LogVolumetricLightmapImport:      BrickData 595x5x5 = 0.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.02.15-23.35.20:289][392]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.15-23.35.20:289][392]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2019.02.15-23.35.20:289][392]LogVolumetricLightmapImport:          1: 16.8% covering 31.3% of volume
+[2019.02.15-23.35.20:289][392]LogVolumetricLightmapImport:          2: 82.4% covering 2.4% of volume
+[2019.02.15-23.35.20:947][392]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.02.15-23.35.20:947][392]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.02.15-23.35.20:947][392]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.02.15-23.35.20:947][392]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.02.15-23.35.20:947][392]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.02.15-23.35.20:947][392]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.02.15-23.35.21:057][392]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2019.02.15-23.35.21:058][392]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X512)
+[2019.02.15-23.35.21:058][392]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X512)
+[2019.02.15-23.35.21:078][392]Lightmass on MARKO--DESKTOP: 13.1 sec total, 189 ms importing, 126 ms setup, 2.49 sec photons, 10.2 sec processing, 0 ms extra exporting [80/80 mappings]. Threads: 1:11 min total, 40.6 sec processing.
+[2019.02.15-23.35.21:086][392]LogStaticLightingSystem: Illumination: 18.1 sec (542 ms encoding lightmaps, 106 ms encoding shadowmaps)
+[2019.02.15-23.35.21:086][392]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.02.15-23.35.21:086][392]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.7 MB streaming, 0.7 MB non-streaming), 3 textures
+[2019.02.15-23.35.21:486][392]DumpUnbuiltLightIteractions
+[2019.02.15-23.35.21:486][392]Lights with unbuilt interactions: 0
+[2019.02.15-23.35.21:487][392]
+[2019.02.15-23.35.21:487][392]Primitives with unbuilt interactions: 0
+[2019.02.15-23.35.21:492][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.35.21:513][393]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.15-23.35.21:514][393]MapCheck: New page: Level1_And_TestArea - Feb 15, 2019, 7:35:21 AM
+[2019.02.15-23.35.21:574][393]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.038ms to complete.
+[2019.02.15-23.35.21:919][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.35.36:459][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.35.40:813][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.35.41:556][730]MapCheck: New page: Map Check
+[2019.02.15-23.35.41:568][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.35.41:571][730]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.15-23.35.41:571][730]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.15-23.35.41:718][730]LightingResults: New page: Lighting Build - Feb 15, 2019, 7:35:41 AM
+[2019.02.15-23.35.41:723][730]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.15-23.35.41:725][730]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.15-23.35.41:725][730]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.15-23.35.41:725][730]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.15-23.35.41:725][730]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17188
+[2019.02.15-23.35.46:232][730]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.15-23.35.46:232][730]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.15-23.35.46:232][730]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.15-23.35.46:232][730]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.15-23.35.46:232][730]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.15-23.35.46:327][730]LogEditorBuildUtils: Build time 0:04
+[2019.02.15-23.35.52:422][264]Job is a success!
+[2019.02.15-23.35.52:453][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.35.52:483][266]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.02.15-23.35.52:483][266]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.15-23.35.52:483][266]LogVolumetricLightmapImport:      BrickData 595x5x5 = 0.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2019.02.15-23.35.52:483][266]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.15-23.35.52:483][266]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2019.02.15-23.35.52:483][266]LogVolumetricLightmapImport:          1: 16.8% covering 31.3% of volume
+[2019.02.15-23.35.52:483][266]LogVolumetricLightmapImport:          2: 82.4% covering 2.4% of volume
+[2019.02.15-23.35.53:095][266]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.02.15-23.35.53:095][266]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.02.15-23.35.53:095][266]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.02.15-23.35.53:095][266]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.02.15-23.35.53:095][266]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.02.15-23.35.53:095][266]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.02.15-23.35.53:189][266]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2019.02.15-23.35.53:189][266]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X512)
+[2019.02.15-23.35.53:189][266]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X512)
+[2019.02.15-23.35.53:211][266]Lightmass on MARKO--DESKTOP: 6.51 sec total, 186 ms importing, 123 ms setup, 1.89 sec photons, 4.27 sec processing, 0 ms extra exporting [80/80 mappings]. Threads: 29.7 sec total, 14.8 sec processing.
+[2019.02.15-23.35.53:218][266]LogStaticLightingSystem: Illumination: 11.4 sec (493 ms encoding lightmaps, 91 ms encoding shadowmaps)
+[2019.02.15-23.35.53:218][266]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.02.15-23.35.53:218][266]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.7 MB streaming, 0.7 MB non-streaming), 3 textures
+[2019.02.15-23.35.54:238][266]DumpUnbuiltLightIteractions
+[2019.02.15-23.35.54:238][266]Lights with unbuilt interactions: 0
+[2019.02.15-23.35.54:238][266]
+[2019.02.15-23.35.54:238][266]Primitives with unbuilt interactions: 0
+[2019.02.15-23.35.54:244][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.35.54:266][267]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.15-23.35.54:266][267]MapCheck: New page: Level1_And_TestArea - Feb 15, 2019, 7:35:54 AM
+[2019.02.15-23.35.54:325][267]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.438ms to complete.
+[2019.02.15-23.37.27:195][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.38.08:902][385]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb6e605a90, Size=4
+[2019.02.15-23.38.08:902][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb669cc5e0, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_60:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.38.08:903][385]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb669cc1c0, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.38.09:052][385]LogSavePackage: Save=151.46ms
+[2019.02.15-23.38.09:052][385]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestAreaE08738114006B745D2F9D791F564409A.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap'
+[2019.02.15-23.38.09:055][385]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap
+[2019.02.15-23.38.09:206][385]LogSavePackage: Save=131.19ms
+[2019.02.15-23.38.09:206][385]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea_BuiltData4888526F43B088D633DA619B24129285.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset'
+[2019.02.15-23.38.09:210][385]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset
+[2019.02.15-23.38.09:841][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.38.10:651][556]MapCheck: New page: Map Check
+[2019.02.15-23.38.10:664][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.38.10:666][556]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.15-23.38.10:666][556]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.15-23.38.10:829][556]LightingResults: New page: Lighting Build - Feb 15, 2019, 7:38:10 AM
+[2019.02.15-23.38.10:834][556]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.15-23.38.10:836][556]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.15-23.38.10:836][556]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.15-23.38.10:837][556]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.15-23.38.10:837][556]LogSwarmInterface: [TryOpenConnection] Local Process ID is 17188
+[2019.02.15-23.38.15:355][556]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.15-23.38.15:355][556]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.15-23.38.15:355][556]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.15-23.38.15:355][556]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.15-23.38.15:355][556]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.15-23.38.15:449][556]LogEditorBuildUtils: Build time 0:04
+[2019.02.15-23.38.15:520][558]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb669cc5e0, Size=4
+[2019.02.15-23.38.21:671][100]Job is a success!
+[2019.02.15-23.38.21:691][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.38.21:721][101]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2019.02.15-23.38.21:721][101]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.15-23.38.21:721][101]LogVolumetricLightmapImport:      BrickData 655x5x5 = 0.6Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.02.15-23.38.21:721][101]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.15-23.38.21:721][101]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2019.02.15-23.38.21:721][101]LogVolumetricLightmapImport:          1: 15.3% covering 31.3% of volume
+[2019.02.15-23.38.21:721][101]LogVolumetricLightmapImport:          2: 84.0% covering 2.7% of volume
+[2019.02.15-23.38.22:366][101]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.02.15-23.38.22:366][101]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.02.15-23.38.22:366][101]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.02.15-23.38.22:366][101]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.02.15-23.38.22:366][101]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.02.15-23.38.22:366][101]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.02.15-23.38.22:465][101]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 32X32)
+[2019.02.15-23.38.22:466][101]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X512)
+[2019.02.15-23.38.22:466][101]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X512)
+[2019.02.15-23.38.22:487][101]Lightmass on MARKO--DESKTOP: 6.65 sec total, 190 ms importing, 128 ms setup, 1.98 sec photons, 4.32 sec processing, 0 ms extra exporting [80/80 mappings]. Threads: 30.1 sec total, 13.1 sec processing.
+[2019.02.15-23.38.22:494][101]LogStaticLightingSystem: Illumination: 11.6 sec (529 ms encoding lightmaps, 95 ms encoding shadowmaps)
+[2019.02.15-23.38.22:494][101]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2019.02.15-23.38.22:494][101]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (0.7 MB streaming, 0.7 MB non-streaming), 3 textures
+[2019.02.15-23.38.23:361][101]DumpUnbuiltLightIteractions
+[2019.02.15-23.38.23:361][101]Lights with unbuilt interactions: 0
+[2019.02.15-23.38.23:361][101]
+[2019.02.15-23.38.23:361][101]Primitives with unbuilt interactions: 0
+[2019.02.15-23.38.23:367][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.38.23:385][102]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.15-23.38.23:386][102]MapCheck: New page: Level1_And_TestArea - Feb 15, 2019, 7:38:23 AM
+[2019.02.15-23.38.23:443][102]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.388ms to complete.
+[2019.02.15-23.39.00:448][482]LogEditorViewport: Clicking on Actor (LMB): Room2_Label_C (Room1_Label)
+[2019.02.15-23.39.06:865][228]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.15-23.40.54:643][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.15-23.41.00:626][817]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb669cc1c0, Size=4
+[2019.02.15-23.41.00:626][817]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb669cc1c0, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_64:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.41.00:627][817]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb669cd680, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.41.00:779][817]LogSavePackage: Save=154.37ms
+[2019.02.15-23.41.00:779][817]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestAreaC9D815BD4605421E5175048C31E647AD.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap'
+[2019.02.15-23.41.00:781][817]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap
+[2019.02.15-23.41.00:945][817]LogSavePackage: Save=136.79ms
+[2019.02.15-23.41.00:945][817]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea_BuiltData81F5E502440FC81F9DDFDABB862FF5A1.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset'
+[2019.02.15-23.41.00:947][817]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset
+[2019.02.15-23.41.03:162][ 79]LogRenderer: Reallocating scene render targets to support 1712x996 Format 26 NumSamples 1 (Frame:79934).
+[2019.02.15-23.41.03:196][ 80]LogRenderer: Reallocating scene render targets to support 1724x996 Format 26 NumSamples 1 (Frame:79936).
+[2019.02.15-23.41.03:231][ 81]LogRenderer: Reallocating scene render targets to support 1744x996 Format 26 NumSamples 1 (Frame:79938).
+[2019.02.15-23.41.03:265][ 82]LogRenderer: Reallocating scene render targets to support 1764x996 Format 26 NumSamples 1 (Frame:79940).
+[2019.02.15-23.41.03:300][ 83]LogRenderer: Reallocating scene render targets to support 1776x996 Format 26 NumSamples 1 (Frame:79942).
+[2019.02.15-23.41.03:335][ 84]LogRenderer: Reallocating scene render targets to support 1804x996 Format 26 NumSamples 1 (Frame:79944).
+[2019.02.15-23.41.03:368][ 85]LogRenderer: Reallocating scene render targets to support 1832x996 Format 26 NumSamples 1 (Frame:79946).
+[2019.02.15-23.41.03:403][ 86]LogRenderer: Reallocating scene render targets to support 1856x996 Format 26 NumSamples 1 (Frame:79948).
+[2019.02.15-23.41.03:438][ 87]LogRenderer: Reallocating scene render targets to support 1868x996 Format 26 NumSamples 1 (Frame:79950).
+[2019.02.15-23.41.03:471][ 88]LogRenderer: Reallocating scene render targets to support 1876x996 Format 26 NumSamples 1 (Frame:79952).
+[2019.02.15-23.41.03:561][ 93]LogRenderer: Reallocating scene render targets to support 1892x996 Format 26 NumSamples 1 (Frame:79956).
+[2019.02.15-23.41.03:598][ 94]LogRenderer: Reallocating scene render targets to support 1908x996 Format 26 NumSamples 1 (Frame:79958).
+[2019.02.15-23.41.03:631][ 95]LogRenderer: Reallocating scene render targets to support 1920x996 Format 26 NumSamples 1 (Frame:79960).
+[2019.02.15-23.41.03:701][ 97]LogRenderer: Reallocating scene render targets to support 1924x996 Format 26 NumSamples 1 (Frame:79964).
+[2019.02.15-23.41.03:736][ 98]LogRenderer: Reallocating scene render targets to support 1932x996 Format 26 NumSamples 1 (Frame:79966).
+[2019.02.15-23.41.03:770][ 99]LogRenderer: Reallocating scene render targets to support 1940x996 Format 26 NumSamples 1 (Frame:79968).
+[2019.02.15-23.41.07:936][592]LogRenderer: Reallocating scene render targets to support 1940x1004 Format 26 NumSamples 1 (Frame:80314).
+[2019.02.15-23.41.07:971][593]LogRenderer: Reallocating scene render targets to support 1940x1012 Format 26 NumSamples 1 (Frame:80316).
+[2019.02.15-23.41.08:005][594]LogRenderer: Reallocating scene render targets to support 1940x1028 Format 26 NumSamples 1 (Frame:80318).
+[2019.02.15-23.41.08:040][595]LogRenderer: Reallocating scene render targets to support 1940x1056 Format 26 NumSamples 1 (Frame:80320).
+[2019.02.15-23.41.08:075][596]LogRenderer: Reallocating scene render targets to support 1940x1072 Format 26 NumSamples 1 (Frame:80322).
+[2019.02.15-23.41.08:109][597]LogRenderer: Reallocating scene render targets to support 1940x1092 Format 26 NumSamples 1 (Frame:80324).
+[2019.02.15-23.41.08:143][598]LogRenderer: Reallocating scene render targets to support 1940x1100 Format 26 NumSamples 1 (Frame:80326).
+[2019.02.15-23.41.08:244][604]LogRenderer: Reallocating scene render targets to support 1940x1108 Format 26 NumSamples 1 (Frame:80330).
+[2019.02.15-23.41.08:282][605]LogRenderer: Reallocating scene render targets to support 1940x1116 Format 26 NumSamples 1 (Frame:80332).
+[2019.02.15-23.41.08:316][606]LogRenderer: Reallocating scene render targets to support 1940x1120 Format 26 NumSamples 1 (Frame:80334).
+[2019.02.15-23.41.08:349][607]LogRenderer: Reallocating scene render targets to support 1940x1132 Format 26 NumSamples 1 (Frame:80336).
+[2019.02.15-23.41.08:383][608]LogRenderer: Reallocating scene render targets to support 1940x1140 Format 26 NumSamples 1 (Frame:80338).
+[2019.02.15-23.41.08:417][609]LogRenderer: Reallocating scene render targets to support 1940x1152 Format 26 NumSamples 1 (Frame:80340).
+[2019.02.15-23.41.08:450][610]LogRenderer: Reallocating scene render targets to support 1940x1160 Format 26 NumSamples 1 (Frame:80342).
+[2019.02.15-23.41.08:484][611]LogRenderer: Reallocating scene render targets to support 1940x1164 Format 26 NumSamples 1 (Frame:80344).
+[2019.02.15-23.41.08:552][613]LogRenderer: Reallocating scene render targets to support 1940x1172 Format 26 NumSamples 1 (Frame:80348).
+[2019.02.15-23.41.08:620][615]LogRenderer: Reallocating scene render targets to support 1940x1176 Format 26 NumSamples 1 (Frame:80352).
+[2019.02.15-23.41.10:746][863]LogRenderer: Reallocating scene render targets to support 1944x1176 Format 26 NumSamples 1 (Frame:80575).
+[2019.02.15-23.41.10:781][864]LogRenderer: Reallocating scene render targets to support 1960x1176 Format 26 NumSamples 1 (Frame:80577).
+[2019.02.15-23.41.10:816][865]LogRenderer: Reallocating scene render targets to support 1996x1176 Format 26 NumSamples 1 (Frame:80579).
+[2019.02.15-23.41.10:853][866]LogRenderer: Reallocating scene render targets to support 2044x1176 Format 26 NumSamples 1 (Frame:80581).
+[2019.02.15-23.41.10:889][867]LogRenderer: Reallocating scene render targets to support 2084x1176 Format 26 NumSamples 1 (Frame:80583).
+[2019.02.15-23.41.10:925][868]LogRenderer: Reallocating scene render targets to support 2120x1176 Format 26 NumSamples 1 (Frame:80585).
+[2019.02.15-23.41.10:961][869]LogRenderer: Reallocating scene render targets to support 2152x1176 Format 26 NumSamples 1 (Frame:80587).
+[2019.02.15-23.41.10:996][870]LogRenderer: Reallocating scene render targets to support 2180x1176 Format 26 NumSamples 1 (Frame:80589).
+[2019.02.15-23.41.11:033][871]LogRenderer: Reallocating scene render targets to support 2204x1176 Format 26 NumSamples 1 (Frame:80591).
+[2019.02.15-23.41.11:067][872]LogRenderer: Reallocating scene render targets to support 2224x1176 Format 26 NumSamples 1 (Frame:80593).
+[2019.02.15-23.41.11:103][873]LogRenderer: Reallocating scene render targets to support 2240x1176 Format 26 NumSamples 1 (Frame:80595).
+[2019.02.15-23.41.11:138][874]LogRenderer: Reallocating scene render targets to support 2256x1176 Format 26 NumSamples 1 (Frame:80597).
+[2019.02.15-23.41.11:174][875]LogRenderer: Reallocating scene render targets to support 2276x1176 Format 26 NumSamples 1 (Frame:80599).
+[2019.02.15-23.41.11:208][876]LogRenderer: Reallocating scene render targets to support 2300x1176 Format 26 NumSamples 1 (Frame:80601).
+[2019.02.15-23.41.11:243][877]LogRenderer: Reallocating scene render targets to support 2316x1176 Format 26 NumSamples 1 (Frame:80603).
+[2019.02.15-23.41.11:281][878]LogRenderer: Reallocating scene render targets to support 2324x1176 Format 26 NumSamples 1 (Frame:80605).
+[2019.02.15-23.41.11:318][879]LogRenderer: Reallocating scene render targets to support 2328x1176 Format 26 NumSamples 1 (Frame:80607).
+[2019.02.15-23.41.11:352][880]LogRenderer: Reallocating scene render targets to support 2336x1176 Format 26 NumSamples 1 (Frame:80609).
+[2019.02.15-23.41.11:385][881]LogRenderer: Reallocating scene render targets to support 2344x1176 Format 26 NumSamples 1 (Frame:80611).
+[2019.02.15-23.41.11:453][883]LogRenderer: Reallocating scene render targets to support 2348x1176 Format 26 NumSamples 1 (Frame:80615).
+[2019.02.15-23.41.17:995][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.41.18:102][644]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb669cc1c0, Size=4
+[2019.02.15-23.41.18:111][644]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb669cd680, Size=4
+[2019.02.15-23.41.18:111][644]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb284ccf90, Size=4, Default__Level1_And_TestArea_C Function /Engine/Transient.REINST_Level1_And_TestArea_C_68:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.41.18:112][644]LogUObjectGlobals: Created PersistentFrame Addr=0x000002bb284ccd68, Size=4, Default__Level1_And_TestArea_C Function /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C:ExecuteUbergraph_Level1_And_TestArea
+[2019.02.15-23.41.18:262][644]LogSavePackage: Save=151.74ms
+[2019.02.15-23.41.18:262][644]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestAreaA8EC85614FCDBB702ED70A8788807C50.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap'
+[2019.02.15-23.41.18:264][644]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea.umap
+[2019.02.15-23.41.18:415][644]LogSavePackage: Save=129.51ms
+[2019.02.15-23.41.18:415][644]LogSavePackage: Moving 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Level1_And_TestArea_BuiltData38C97E874AFB49F0780A96B839AFADF0.tmp' to 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset'
+[2019.02.15-23.41.18:417][644]LogSavePackage: Display: Finished SavePackage C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/VirtualRealityBP/Maps/Level1_And_TestArea_BuiltData.uasset
+[2019.02.15-23.43.52:090][996]LogEditorViewport: Clicking on Actor (LMB): Robot_C (Robot_Room2_1)
+[2019.02.15-23.43.53:387][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.43.53:495][160]LogTemp: Repeating last play command: Simulate
+[2019.02.15-23.43.53:504][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel.Level1_And_TestArea' with GeneratedClass '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel.Level1_And_TestArea'
+[2019.02.15-23.43.53:504][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.15-23.43.53:504][160]PIE: New page: SIE session: Level1_And_TestArea (Feb 15, 2019, 7:43:53 AM)
+[2019.02.15-23.43.53:504][160]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Level1_And_TestArea
+[2019.02.15-23.43.53:516][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011582s)
+[2019.02.15-23.43.53:517][160]LogAIModule: Creating AISystem for world Level1_And_TestArea
+[2019.02.15-23.43.53:517][160]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2019.02.15-23.43.53:517][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea to /Game/VirtualRealityBP/Maps/UEDPIE_0_Level1_And_TestArea.Level1_And_TestArea (0.012286s)
+[2019.02.15-23.43.53:531][160]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb284ccf90, Size=4
+[2019.02.15-23.43.53:581][160]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.15-23.43.53:651][160]LogInit: FAudioDevice initialized.
+[2019.02.15-23.43.53:697][160]LogLoad: Game class is 'DefaultGameMode_C'
+[2019.02.15-23.43.53:700][160]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Level1_And_TestArea.Level1_And_TestArea up for play (max tick rate 0) at 2019.02.15-15.43.53
+[2019.02.15-23.43.53:701][160]LogWorld: Bringing up level for play took: 0.002582
+[2019.02.15-23.43.53:701][160]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.15-23.43.53:704][160]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2019.02.15-23.43.53:706][160]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_Level1_And_TestArea -0.024
+[2019.02.15-23.43.53:715][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel.Level1_And_TestArea' with GeneratedClass '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel.Level1_And_TestArea'
+[2019.02.15-23.44.01:464][ 41]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.15-23.44.03:602][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Room2)
+[2019.02.15-23.44.04:325][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Room2)
+[2019.02.15-23.44.05:550][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.15-23.44.57:131][526]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.15-23.44.57:284][539]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2019.02.15-23.44.57:354][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel.Level1_And_TestArea' with GeneratedClass '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel.Level1_And_TestArea'
+[2019.02.15-23.44.57:382][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel.Level1_And_TestArea' with GeneratedClass '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Level1_And_TestArea.Level1_And_TestArea:PersistentLevel.Level1_And_TestArea'
+[2019.02.15-23.44.57:544][540]Cmd: QUIT_EDITOR
+[2019.02.15-23.44.57:930][540]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.15-23.44.57:938][540]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.15-23.44.57:938][540]LogExit: Preparing to exit.
+[2019.02.15-23.44.58:268][540]LogExit: Editor shut down
+[2019.02.15-23.44.58:270][540]LogExit: Transaction tracking system shut down
+[2019.02.15-23.44.58:271][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb209ea5c0, Size=416
+[2019.02.15-23.44.58:271][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35e4ad60, Size=32
+[2019.02.15-23.44.58:271][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb209b17c8, Size=24
+[2019.02.15-23.44.58:271][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35c81c00, Size=968
+[2019.02.15-23.44.58:271][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb35b3e800, Size=752
+[2019.02.15-23.44.58:271][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb284ccd68, Size=4
+[2019.02.15-23.44.58:271][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb14801420, Size=48
+[2019.02.15-23.44.58:272][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb2823a060, Size=4
+[2019.02.15-23.44.58:272][540]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002bb2823a058, Size=4
+[2019.02.15-23.44.58:329][540]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.02.15-23.44.58:329][540]LogDirectoryWatcher: A directory notification for 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/' was aborted.
+[2019.02.15-23.44.58:329][540]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.02.15-23.44.58:329][540]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.02.15-23.44.58:329][540]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.02.15-23.44.58:329][540]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.02.15-23.44.58:329][540]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.02.15-23.44.58:329][540]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.02.15-23.44.58:393][540]LogExit: Object subsystem successfully closed.
+[2019.02.15-23.44.58:412][540]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.15-23.44.58:414][540]LogD3D11RHI: Shutdown
+[2019.02.15-23.44.58:414][540]LogD3D11RHI: CleanupD3DDevice
+[2019.02.15-23.44.58:416][540]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.15-23.44.58:423][540]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2019.02.15-23.44.58:423][540]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2019.02.15-23.44.58:423][540]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2019.02.15-23.44.58:423][540]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2019.02.15-23.44.58:423][540]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2019.02.15-23.44.58:423][540]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2019.02.15-23.44.58:424][540]LogDirectoryWatcher: A directory notification for 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/Collections/' was aborted.
+[2019.02.15-23.44.58:424][540]LogDirectoryWatcher: A directory notification for 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Content/Developers/Marko/Collections/' was aborted.
+[2019.02.15-23.44.58:424][540]LogDirectoryWatcher: A directory notification for 'C:/Users/Marko/Documents/GitHub/the-labyrinth/MyProject/Saved/Collections/' was aborted.
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2019.02.15-23.44.58:424][540]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2019.02.15-23.44.58:425][540]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2019.02.15-23.44.58:496][540]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2019.02.15-23.44.58:563][540]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2019.02.15-23.44.58:566][540]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2019.02.15-23.44.58:566][540]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2019.02.15-23.44.58:566][540]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2019.02.15-23.44.58:566][540]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2019.02.15-23.44.58:566][540]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2019.02.15-23.44.58:567][540]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2019.02.15-23.44.58:767][540]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2019.02.15-23.44.58:770][540]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2019.02.15-23.44.58:871][540]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2019.02.15-23.44.58:972][540]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.02.15-23.44.58:973][540]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2019.02.15-23.44.58:973][540]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2019.02.15-23.44.58:973][540]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2019.02.15-23.44.58:973][540]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2019.02.15-23.44.58:973][540]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2019.02.15-23.44.59:952][540]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2019.02.15-23.44.59:952][540]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2019.02.15-23.44.59:952][540]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2019.02.15-23.44.59:953][540]LogModuleManager: Shutting down and abandoning module Media (233)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.02.15-23.44.59:959][540]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.02.15-23.44.59:960][540]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.02.15-23.44.59:960][540]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2019.02.15-23.44.59:961][540]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.02.15-23.44.59:966][540]LogDerivedDataCache: Shutdown
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.02.15-23.44.59:966][540]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.02.15-23.44.59:967][540]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.02.15-23.44.59:967][540]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.15-23.44.59:967][540]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4E7D94CB-4135-E6E9-EC16-F5904E9B8DE0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=0a6a0bf04d04fbb9076b71b32cd93fdf%7C4bdfc019fd4747868c988b5ab6109c4f%7C3e72f18a-39d5-481c-bae1-5b0814031d08&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.15-23.44.59:970][540]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.02.15-23.44.59:971][540]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.15-23.44.59:971][540]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.15-23.44.59:971][540]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.15-23.44.59:971][540]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.15-23.44.59:971][540]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.15-23.44.59:971][540]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.15-23.44.59:971][540]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.15-23.44.59:972][540]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.15-23.44.59:976][540]LogExit: Exiting.
+[2019.02.15-23.44.59:983][540]Log file closed, 02/15/19 15:44:59
